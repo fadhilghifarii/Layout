@@ -1,0 +1,44 @@
+1. Panti :
+- Nama Panti
+- Pemilik panti
+- Type Panti
+- Jenis yayasan
+- Cover Panti   
+- Status Panti
+- Alamat Panti
+- Deskripsi panti https://froala.com/wysiwyg-editor/examples/
+- Kebutuhan panti
+- Deskripsi Program Panti
+- Laki - Laki
+- Perempuan
+- Akte Panti (foto)
+- Tag Kebutuhan panti
+- Tag Program Panti
+- Jumlah Pengurus Panti
+- link sosial media panti
+
+
+
+2. Donatur :
+- Nama
+- Email
+- No telp
+- Password
+
+
+3. Donasi :
+- Nama program donasi
+- Nama panti
+- Kategori Program donasi
+- Cover program donasi
+- Program realisasi 
+- Target Donasi
+- Deskripsi donasi https://froala.com/wysiwyg-editor/examples/
+
+4. slider
+- Cover slider
+- link Cover
+
+
+
+
